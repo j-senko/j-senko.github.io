@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Contrast Examples</title>
+   </head>
+	
+   <body>
+      <h1>Contrast Examples</h1>
+      
+      <a href = "README_Contrast.txt" target = "_self"> READ ME </a><br/>
+      <a href = "01_Flounder.jpg" target = "_self"> 01_Flounder </a><br/>
+      <a href = "https://JohnSenko.github.io/Contrast/ContrastA.zip"> 1st Zipped Set of images </a><br/>
+      <a href = "https://JohnSenko.github.io/Contrast/ContrastB.zip"> 2nd Zipped Set of images </a><br/>
+      <a href = "02_GreekArchHDR.jpg" target = "_self"> 02_GreekArchHDR </a><br/>
+      <a href = "03_1stplace.jpg" target = "_self"> 03_1stplace </a><br/>
+      <a href = "04_EH10.jpg" target = "_self"> 04_EH10 </a><br/>
+      <a href = "05_PAlandscape.jpg" target = "_self"> 05_PAlandscape </a><br/>
+      <a href = "06_Dan068.jpg" target = "_self"> 06_Dan068 </a><br/>
+      <a href = "07_GlacierCtHDR.jpg" target = "_self"> 07_GlacierCtHDR </a><br/>
+      <a href = "08_April.jpg" target = "_self"> 08_April </a><br/>
+      <a href = "09_Dan090.jpg" target = "_self"> 09_Dan090 </a><br/>
+      <a href = "10_Crowd.jpg" target = "_self"> 10_Crowd </a><br/>
+      <a href = "11_Drew001.jpg" target = "_self"> 11_Drew001 </a><br/>
+      <a href = "12_Dan064.jpg" target = "_self"> 12_Dan064 </a><br/>
+      <a href = "13_StudioHDR.jpg" target = "_self"> 13_StudioHDR </a><br/>
+      <a href = "14_UglyDressHDR.jpg" target = "_self"> 14_UglyDressHDR </a><br/>
+      <a href = "16_Dan089.jpg" target = "_self"> 16_Dan089 </a><br/>
+      <a href = "17_WeddingA.jpg" target = "_self"> 17_WeddingA </a><br/>
+      <a href = "18_DesertHomeA.jpg" target = "_self"> 18_DesertHomeA </a><br/>
+      <a href = "19_cannon.jpg" target = "_self"> 19_cannon </a><br/>
+      <a href = "20_Hell_froze_over.jpg" target = "_self"> 20_Hell_froze_over </a><br/>
+      <a href = "21_CrystalandDad.jpg" target = "_self"> 21_CrystalandDad </a><br/>
+      <a href = "22_DSC00545a.jpg" target = "_self"> 22_DSC00545a </a><br/>
+      <a href = "23_PA080006.jpg" target = "_self"> 23_PA080006 </a><br/>
+      <a href = "26_DesertHomeB.jpg" target = "_self"> 26_DesertHomeB </a><br/>
+      <a href = "27_DesertHomeC.jpg" target = "_self"> 27_DesertHomeC </a><br/>
+      <a href = "28_PaulL.jpg" target = "_self"> 28_PaulL </a><br/>
+      <a href = "29_PA260036127.jpg" target = "_self"> 29_PA260036127 </a><br/>
+      <a href = "30_PA260054141.jpg" target = "_self"> 30_PA260054141 </a><br/>
+      <a href = "38_PA130029.jpg" target = "_self"> 38_PA130029 </a><br/>
+      <a href = "39_Picture_004171.jpg" target = "_self"> 39_Picture_004171 </a><br/>
+      <a href = "40_DesertHomeD.jpg" target = "_self"> 40_DesertHomeD </a><br/>
+      <a href = "41_unicycle.jpg" target = "_self"> 41_unicycle </a><br/>
+      <a href = "42_PA260058145.jpg" target = "_self"> 42_PA260058145 </a><br/>
+      <a href = "43_DSC00536.jpg" target = "_self"> 43_DSC00536 </a><br/>
+   </body>
+	
+</html>
